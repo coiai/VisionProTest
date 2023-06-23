@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Coiai",
+        "category": "Art",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "自撮りが下手くそな人の絵を描きたくて描いたよ",
+        "imageName": "Image1"
+    },
+    {
+        "name": "顔の塔",
+        "category": "Art",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "何かが積み重なっていく様子って面白いよね",
+        "imageName": "Image2"
+    },
+    {
+        "name": "改造",
+        "category": "Art",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "改造される夢は見たことある？",
+        "imageName": "Image3"
+    },
+    {
+        "name": "重なる顔",
+        "category": "Art",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "自撮りが下手くそな人の絵を描きたくて描いたよ",
+        "imageName": "Image4"
+    },
+    {
+        "name": "瞑想をする",
+        "category": "Art",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "自撮りが下手くそな人の絵を描きたくて描いたよ",
+        "imageName": "Image5"
+    },
+    {
+        "name": "寒い日に外のベンチに座ったよ",
+        "category": "Art",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "寒い日に外のベンチに座ったよ",
+        "imageName": "Image6"
+    }
+]
